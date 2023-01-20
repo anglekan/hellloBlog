@@ -62,5 +62,4 @@ export default {
 - `yarn dev:client` // 本地开发客户端页面
 - `yarn build:admin` // 项目打包 - 管理端
 - `yarn build:client` // 项目打包 - 客户端
-- `yarn analyz` // 查看打包信息
 - `yarn server` // 启动后台接口服务
