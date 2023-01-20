@@ -29,7 +29,7 @@
           <p>Less全局变量导入style-resources-loader插件:yarn add style-resources-loader -D</p>
           <p>vue-color自定义选择颜色插件：yarn add vue-color</p>
           <p>marked和highlightJs插件:yarn add marked highlightJs -S</p>
-          ◒ github地址：<a href="#" target="_blank">aaa</a>
+          ◒ github地址：<a href="https://github.com/anglekan/hellloBlog" target="_blank">https://github.com/anglekan/hellloBlog</a>
           <br />
           ◓ 如果运行有问题或者表达不清楚的地方，欢迎微信联系我 🙏 🙏 🙏
           <br />
