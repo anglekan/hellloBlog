@@ -4,8 +4,8 @@
 
 
 ## 项目部署流程
-
-1. 项目启动前，需要在本地安装好 MongoDB 数据库，以管理员身份运行cmd，输入mongod --dbpath +本地data文件路径，再打开一个cmd输入mongo即可
+0. yarn install
+1. 项目启动前，需要在本地安装好 MongoDB 数据库，以管理员身份运行cmd，输入mongod --dbpath +本地data文件路径（不要关掉），再打开一个cmd输入mongo即可进行配置
 2. 在`code/server/config.js`文件配置数据库名、用户以及密码等一些必要的信息；这些信息都可以自定义，但是需要跟`步骤 3`同步起来
 
 ```js
